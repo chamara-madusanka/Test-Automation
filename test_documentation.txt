@@ -6,3 +6,5 @@ rebase remote change 1
 
 remote master rebase changes 1
 remote master rebase changes 2
+
+remote master rebase changes 3
