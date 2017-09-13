@@ -3,3 +3,5 @@ New line added
 
 rebase remote change 1
 rebase remote change 1
+
+remote master rebase changes 1
