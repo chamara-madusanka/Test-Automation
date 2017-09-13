@@ -8,4 +8,5 @@ remote master rebase changes 1
 remote master rebase changes 2
 
 rebase feature2 branch changes
+rebase feature2 branch changes 2
 remote master rebase changes 3
